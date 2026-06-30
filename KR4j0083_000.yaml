@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4j0083/krp/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書集部十
+  hash: sha256:d860f9d2382c1e9bc3c39d366c670d170c860166a0919e841ef45644dcf23afb
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4j0083_WYG_000-1a, image: WYG1494/WYG1494-0531a.png}
+body:
+  text: 渚山堂詞話詞曲類三詞話之屬提要臣等謹按渚山堂詞話三卷明陳霆撰霆字聲伯德清人𢎞治壬戌進士官至山西提學僉事是編與所作詩話並刋而較詩話為稍勝蓋霆詩格頗纎于詞為近故論詞轉用所長其中如韋莊雨餘風軟碎鳴禽句本用杜荀鶴春宫怨語南卓羯鼓録所謂透空碎逺之聲即此碎字當訓細瑣雜亂之義霆乃謂鳴禽碎于理不通改為暖風嬌鳥碎鳴音未免㸃金成鐡又謂楊孟載雪詞簌簌揚揚古無所出欲據黃庭堅詩改為疏疏密密不知以疏疏密密詠雪黃詩又何所出亦未免涉于膠固然其他持論多確又宋元明佚篇斷句往往而有如宋徐一初九日登髙之類其本集不傳于世者亦頗賴以存王昭儀滿江紅詞為其位下宫人張瓊瑛作垂楊玉耳墜金環二曲為唐宋舊譜所無之類亦足資考證猶明人詞話之善本也乾隆四十一年十月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:54f9378875080c0f75d6b947090f6fbf6539d6ccb89eb60c856f2dbe7a122696
+metadata:
+  title: 渚山堂詞話
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:50:04.669571'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR4j0083/KR4j0083_000.txt
+hash: sha256:63826fc9427aff8adfbcdd1ba9b4fe0a6803fad674df3098de3f636d58c90121
